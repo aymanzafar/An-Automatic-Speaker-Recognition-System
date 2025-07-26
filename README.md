@@ -38,6 +38,14 @@ This project presents a complete pipeline for **Automatic Speaker Recognition** 
 
 ---
 
+## 📄 Project Presentation
+
+A detailed project Presentation has been provided, covering the full design, implementation, and evaluation process.
+
+📥 [Download Project Presentation (pptx)](./DSP_Project_Presentation.pptx) 
+
+---
+
 ## 🧾 Literature & References
 
 Key references for implementation and theory:
@@ -88,12 +96,12 @@ This system has potential applications in:
 - **Sagor Paul**
 
 ---
-## ❓ Questions?
 
-Feel free to contact the author of this repository for any queries or clarifications:
+## 📬 Author Info
 
 **Ayman Zafar**  
-📧 nov.aymanz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayman-zafar)  
-💻 [GitHub](https://github.com/aymanzafar)
-
+B.Sc. in Electrical and Electronic Engineering  
+United International University  
+Email: [nov.aymanz@gmail.com]  
+GitHub: [https://github.com/aymanzafar]
+Linkedin: [https://www.linkedin.com/in/ayman-zafar]
