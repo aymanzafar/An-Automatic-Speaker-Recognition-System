@@ -88,7 +88,8 @@ This system has potential applications in:
 ## 👨‍💻 Contributors
 
 - **Dr. Khawza Iftekhar Uddin** – Supervisor
-# Team Members:
+
+## Team Members:
 - **Ayman Zafar**
 - **Nafi Ul Kaysar Buruz**  
 - **Asikur Rahaman**  
