@@ -42,7 +42,7 @@ This project presents a complete pipeline for **Automatic Speaker Recognition** 
 
 A detailed project Presentation has been provided, covering the full design, implementation, and evaluation process.
 
-📥 [Download Project Presentation (pptx)](./DSP_Project_Presentation.pptx) 
+📥 [Download Project Presentation (pptx)](.Presentation/DSP_Project_Presentation.pptx) 
 
 ---
 
