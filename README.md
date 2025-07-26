@@ -80,7 +80,7 @@ This system has potential applications in:
 ## 👨‍💻 Contributors
 
 - **Dr. Khawza Iftekhar Uddin** – Supervisor
-- 
+
 - **Ayman Zafar**
 - **Nafi Ul Kaysar Buruz**  
 - **Asikur Rahaman**  
